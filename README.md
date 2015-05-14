@@ -15,7 +15,12 @@ Refrences:
 1. Data Analytics Made Accessible - by Dr. Anil Maheshwari
 2. http://cran.r-project.org/web/packages/C50/C50.pdf
 
+--------------------------------------------------------------------------------------------------------------
 
-Twitter Sentiment analysis 
+Twitter Sentiment analysis using R
 
+
+--------------------------------------------------------------------------------------------------------------
+
+Divvy bikes data analysis using R
 
