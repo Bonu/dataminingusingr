@@ -11,3 +11,11 @@ Linear Regression - r-square
 Cluster analysis - KMeans
 
 
+Refrences:
+1. Data Analytics Made Accessible - by Dr. Anil Maheshwari
+2. http://cran.r-project.org/web/packages/C50/C50.pdf
+
+
+Twitter Sentiment analysis 
+
+
