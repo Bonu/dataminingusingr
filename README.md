@@ -1,4 +1,4 @@
-# dataminingusingr
+# Data mining using R language - Head first
 Data mining using R language
 
 R is a very good functional programming and interpretive language to perform statistical analysis on data. 
