@@ -5,7 +5,9 @@ R is a very good functional programming and interpretive language to perform sta
 This R language is extensively used in data mining.
 
 Decision Tree - C50 alogrithm
+
 Linear Regression - r-square
+
 Cluster analysis - KMeans
 
 
