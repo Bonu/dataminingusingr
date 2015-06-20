@@ -6,9 +6,12 @@ This R language is extensively used in data mining.
 
 Decision Tree - C50 alogrithm
 
+
 Linear Regression - r-square
 
+
 Cluster analysis - KMeans
+
 
 --------------------------------------------------------------------------------------------------------------
 
